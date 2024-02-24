@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../office.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with book and coffee on table";
 
 /**
  * Project list
@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My A&A Movie Ticket Booking(UI/UX Project)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Discover the future of movie ticket booking with A&A - a sleek prototype app designed to redefine your cinema experience. Seamlessly browse movies, check showtimes, and reserve seats with ease. Stay tuned for updates as we continue to perfect your ticket booking journey. Say goodbye to long queues and hello to hassle-free cinema experiences. ",
+    url: "https://alishbasoomro.github.io/UI-UX-project/ ",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Games related to Computer Networks",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Explore the intersection of gaming and computer networks. Enhance your understanding of computer networks while immersing yourself in thrilling gameplay. Get ready to level up your knowledge with games related to computer networks.",
+    url: "https://alishbasoomro.github.io/Games/"
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Elevate your brand with stunning visuals and innovative design solutions showcased in my graphic design portfolio. From logos to web graphics, I bring creativity to life, one pixel at a time.",
+    url: "https://alishbasoomro.github.io/Portfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "My Resume",
+    description:"Dedicated and detail-oriented professional with expertise in Designing, leadership and volunteering.",
+    url: " https://alishbasoomro.github.io/resume/",
   },
 ];
 
